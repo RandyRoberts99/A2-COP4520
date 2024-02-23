@@ -15,7 +15,7 @@ Problem 1 and Problem 2 solutions for Assignment 2 are given in Problem1.java an
 javac Problem1.java
 java Problem1
 ```
-# OR (For Problem2.java)
+### OR (For Problem2.java)
 ```
 javac Problem2.java
 java Problem2
